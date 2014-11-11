@@ -1,11 +1,2 @@
-Compeer Community Guidelines
+Compeer Community
 ============================
-
-Overview
---------------------
-
-Purpose
-----------------------
-
-Submitting a suggestion
------------------------
